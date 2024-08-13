@@ -19,5 +19,6 @@ class _WebviewPaymentPageState extends State<WebviewPaymentPage> {
     widget._hyperWebviewFlutterPlugin.attach(_controller);
     super.initState();
   }
+}
  ```
 4. Utilize this controller to render the PaymentPage within the WebView.
