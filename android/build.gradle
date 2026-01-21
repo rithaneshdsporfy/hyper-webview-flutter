@@ -34,7 +34,7 @@ android {
         namespace 'in.juspay.hyper_webview_flutter'
     }
 
-    compileSdkVersion 33
+    compileSdkVersion 34
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
